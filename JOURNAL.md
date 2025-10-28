@@ -6,3 +6,8 @@
   ==================================================================
 -->
 
+## 10/27/2025 - Researched Materials  
+
+Started research on this project! Made a list of functions i would want as well as the items needed to carry out those functions. I also started to look for possible tutorials on individual parts (like bluetooth).![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--692f8359c5adf0ae2908578c4ad7efff713e30ed/image.png)
+  
+
