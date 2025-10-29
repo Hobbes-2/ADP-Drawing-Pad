@@ -11,3 +11,8 @@
 Started research on this project! Made a list of functions i would want as well as the items needed to carry out those functions. I also started to look for possible tutorials on individual parts (like bluetooth).![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--692f8359c5adf0ae2908578c4ad7efff713e30ed/image.png)
   
 
+## 10/28/2025 - Did lots more research, just about ready to make schematics  
+
+I researched the actual parts i would need for such a project. The main issue that i am finding is knowing what microcontroller to use. Most likely i will go work on the devboard project just to learn how to connect everything and use a microcontroller, as it uses the RP2040. In addition, i found a few possible items that could be used for the actual pressure and touch sensing. I am, however, still unsure if i need a microcontroller to process the pressure or a item like this https://buyinterlinkelectronics.com/collections/new-standard-force-sensors/products/fsr-model-408-300mm-length to tell where it is being pressed. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--b36567f09a5808d3fea10bc4d6b1e9aff3d9c569/image.png)
+  
+
